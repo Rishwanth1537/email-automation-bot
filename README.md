@@ -24,3 +24,8 @@ schedule library is used to run the send_email() function:
 Every Monday, Wednesday, and Friday at 8:00 AM.
 The program runs continuously in a loop and checks every minute for pending tasks.
 To STOP the bot, simply close the terminal
+
+# 📧 Sample Output
+📨 Email automation bot started. Will send on Mon, Wed, and Fri at 8:00 AM.
+[2025-07-29 08:00:00] Sending email to someone@example.com...
+Email sent successfully.
