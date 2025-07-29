@@ -11,11 +11,11 @@ Ideal for notifications, reminders, or demo bots.
 # 🧰 Requirements
 The following Python libraries are used:
 # Library   	           Purpose
-smtplib	   ->    To send emails using Gmail's SMTP \n
-email.mime -> 	 To format the email with subject/body\n
-schedule	 ->    To schedule the email on specific days\n
-datetime	 ->    For logging timestamps\n
-time	     ->    To keep the bot running with time checks\n
+smtplib	   ->    To send emails using Gmail's SMTP | 
+email.mime -> 	 To format the email with subject/body | 
+schedule	 ->    To schedule the email on specific days | 
+datetime	 ->    For logging timestamps | 
+time	     ->    To keep the bot running with time checks | 
 
 # 🛠 How It Works
 The script defines sender and receiver email, subject, and body.
